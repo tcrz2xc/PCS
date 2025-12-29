@@ -3,9 +3,9 @@ whitelist
 *.disney.com
 *.unity3d.com
 *.googleapis.com
-*.limetorrents.lol
-*.1337x.to
-*.yts.it
+*limetorrents.lol
+*1337x.to
+*yts.it
 *torrentproject.com.se
-*.torlock.com
-*.solidtorrents.to
+*torlock.com
+*solidtorrents.to
