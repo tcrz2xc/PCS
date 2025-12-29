@@ -1,0 +1,11 @@
+whitelist
+*.gameloft.com
+*.disney.com
+*.unity3d.com
+*.googleapis.com
+*.limetorrents.lol
+*.1337x.to
+*.yts.it
+*torrentproject.com.se
+*.torlock.com
+*.solidtorrents.to
