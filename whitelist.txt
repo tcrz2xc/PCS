@@ -9,4 +9,4 @@ whitelist
 *torrentproject.com.se
 *torlock.com
 *solidtorrents.to
-wwww.facebook.com
+www.facebook.com
