@@ -11,4 +11,4 @@ whitelist
 *solidtorrents.to
 www.facebook.com
 www.instagram.com
-
+www.open.spotify.com
