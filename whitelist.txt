@@ -10,3 +10,5 @@ whitelist
 *torlock.com
 *solidtorrents.to
 www.facebook.com
+www.instagram.com
+
